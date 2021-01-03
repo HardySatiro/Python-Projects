@@ -1,0 +1,13 @@
+# Ignore
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+.vscode/
+
+# Custom folders
+/temp/
+/notebook/data/payload_example/anima/
+/notebook/data/payload_example/anima_base/
+/notebook/data/others/
+.idea/
+apidoc
